@@ -7,7 +7,8 @@
 
 int main() {
     int populacaoCidade1, populacaoCidade2, numeroPontosCidade1, numeroPontosCidade2;
-    char estadoCidade1, estadoCidade2, codCidade1[3], codCidade2[3], nomeCidade1[50], nomeCidade2[50];
+    char estadoCidade1, estadoCidade2, nomeCidade1[50], nomeCidade2[50];
+    char codCidade1[6], codCidade2[6];
     float areaCidade1, areaCidade2, pibCidade1, pibCidade2;
 
     // Cadastro das Cartas:
